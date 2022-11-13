@@ -1,0 +1,7 @@
+C:\Users\Азамат\source\repos\Exercises\exercise1\bin\Debug\exercise1.exe.config
+C:\Users\Азамат\source\repos\Exercises\exercise1\bin\Debug\exercise1.exe
+C:\Users\Азамат\source\repos\Exercises\exercise1\bin\Debug\exercise1.pdb
+C:\Users\Азамат\source\repos\Exercises\exercise1\obj\Debug\exercise1.csprojAssemblyReference.cache
+C:\Users\Азамат\source\repos\Exercises\exercise1\obj\Debug\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Азамат\source\repos\Exercises\exercise1\obj\Debug\exercise1.exe
+C:\Users\Азамат\source\repos\Exercises\exercise1\obj\Debug\exercise1.pdb

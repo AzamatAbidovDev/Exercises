@@ -1,0 +1,7 @@
+C:\Users\Азамат\source\repos\Exercises\class\bin\Debug\@class.exe.config
+C:\Users\Азамат\source\repos\Exercises\class\bin\Debug\@class.exe
+C:\Users\Азамат\source\repos\Exercises\class\bin\Debug\@class.pdb
+C:\Users\Азамат\source\repos\Exercises\class\obj\Debug\class.csprojAssemblyReference.cache
+C:\Users\Азамат\source\repos\Exercises\class\obj\Debug\class.csproj.CoreCompileInputs.cache
+C:\Users\Азамат\source\repos\Exercises\class\obj\Debug\@class.exe
+C:\Users\Азамат\source\repos\Exercises\class\obj\Debug\@class.pdb
